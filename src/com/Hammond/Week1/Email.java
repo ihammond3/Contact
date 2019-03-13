@@ -1,0 +1,13 @@
+package com.Hammond.Week1;
+
+/**
+ * Created by 016041 on 3/13/2019.
+ */
+public class Email extends Contacts{
+    public String Email;
+
+    @Override
+    public void Contacts() {
+        System.out.println("Emailing: ihammond@yahoo.com");
+    }
+}
