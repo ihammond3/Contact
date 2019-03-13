@@ -7,7 +7,7 @@ public class Email extends Contacts{
     public String Email;
 
     @Override
-    public void Contacts() {
+    public void contacts() {
         System.out.println("Emailing: ihammond@yahoo.com");
     }
 }

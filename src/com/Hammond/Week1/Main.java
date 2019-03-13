@@ -4,9 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
         phoneNumber phoneNumber = new phoneNumber();
-        phoneNumber.Contacts();
+        phoneNumber.contacts();
 
-        Email Email = new Email();
-        Email.Contacts();
+        Email email = new Email();
+        email.contacts();
     }
 }
